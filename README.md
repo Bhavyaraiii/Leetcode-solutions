@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -34,8 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
