@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3731-find-missing-elements](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
