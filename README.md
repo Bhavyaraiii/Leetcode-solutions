@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
