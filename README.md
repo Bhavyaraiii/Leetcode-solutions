@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0078-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
