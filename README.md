@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
