@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Bhavyaraiii/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Queue
 |  |
 | ------- |
